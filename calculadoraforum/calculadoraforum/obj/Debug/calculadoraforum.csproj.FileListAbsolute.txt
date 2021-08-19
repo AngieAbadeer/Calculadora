@@ -1,0 +1,10 @@
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\bin\Debug\calculadoraforum.exe.config
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\bin\Debug\calculadoraforum.exe
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\bin\Debug\calculadoraforum.pdb
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.csproj.AssemblyReference.cache
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.Form1.resources
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.Properties.Resources.resources
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.csproj.GenerateResource.cache
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.csproj.CoreCompileInputs.cache
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.exe
+C:\Users\Angie\Desktop\calculadoraforum\calculadoraforum\obj\Debug\calculadoraforum.pdb
